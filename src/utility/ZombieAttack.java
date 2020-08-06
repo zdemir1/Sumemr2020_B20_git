@@ -50,6 +50,8 @@ public class ZombieAttack {
                 sum+=each;
             }
         }
+
+
         System.out.println("Day "+count+" "+ Arrays.toString(inhabitants));
         System.out.println("---- EXTINCT ----");
 
